@@ -1,0 +1,26 @@
+Alice's Adventures in Wonderland, chapters I-XI: 132,361 characters, 138,328 bytes
+
+merge    1: (32, 116) ->  256 '␣t'           seen 3,462 times
+merge    2: (104, 101) ->  257 'he'           seen 3,374 times
+merge    3: (226, 128) ->  258 '�'            seen 2,983 times
+merge    4: (32, 97) ->  259 '␣a'           seen 2,402 times
+merge    5: (32, 115) ->  260 '␣s'           seen 2,031 times
+merge    6: (105, 110) ->  261 'in'           seen 1,831 times
+merge    7: (256, 257) ->  262 '␣the'         seen 1,648 times
+merge    8: (111, 117) ->  263 'ou'           seen 1,449 times
+merge    9: (32, 119) ->  264 '␣w'           seen 1,434 times
+merge   10: (105, 116) ->  265 'it'           seen 1,163 times
+merge   45: (108, 105) ->  300 'li'           seen 450 times
+merge  145: (307, 381) ->  400 'self'         seen 111 times
+merge  245: (32, 484) ->  500 '␣Queen'       seen 60 times
+merge  345: (108, 274) ->  600 'led'          seen 40 times
+merge  445: (281, 314) ->  700 '␣man'         seen 28 times
+merge  545: (298, 121) ->  800 'ory'          seen 22 times
+merge  645: (275, 114) ->  900 '␣br'          seen 17 times
+
+744 merges in 2.7 s
+
+"How many r's are in strawberry?"
+  -> 15 tokens [774, 700, 121, 350, 39, 115, 609, 306, 446, 551, 119, 98, 267, 392, 63]
+  -> ['How', ' man', 'y', ' r', "'", 's', ' are', ' in', ' st', 'ra', 'w', 'b', 'er', 'ry', '?']
+chapter XII, never seen: 12,175 bytes -> 4,429 tokens
