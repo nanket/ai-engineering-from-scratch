@@ -1,0 +1,110 @@
+{
+ "source": "Universal Declaration of Human Rights, Article 1, from the UDHR in Unicode project (via the NLTK udhr2 corpus)",
+ "articles": {
+  "eng": {
+   "name": "English",
+   "heading": "Article 1",
+   "text": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+  },
+  "spa": {
+   "name": "Spanish",
+   "heading": "Artículo 1",
+   "text": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros."
+  },
+  "fra": {
+   "name": "French",
+   "heading": "Article premier",
+   "text": "Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité."
+  },
+  "deu": {
+   "name": "German",
+   "heading": "Artikel 1",
+   "text": "Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Brüderlichkeit begegnen."
+  },
+  "rus": {
+   "name": "Russian",
+   "heading": "Статья 1",
+   "text": "Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства."
+  },
+  "tur": {
+   "name": "Turkish",
+   "heading": "Madde 1",
+   "text": "Bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler ve birbirlerine karşı kardeşlik zihniyeti ile hareket etmelidirler."
+  },
+  "vie": {
+   "name": "Vietnamese",
+   "heading": "Điều 1:",
+   "text": "Tất cả mọi người sinh ra đều được tự do và bình đẳng về nhân phẩm và quyền. Mọi con người đều được tạo hoá ban cho lý trí và lương tâm và cần phải đối xử với nhau trong tình bằng hữu."
+  },
+  "cmn_hans": {
+   "name": "Chinese",
+   "heading": "第一条",
+   "text": "人人生而自由,在尊严和权利上一律平等。他们赋有理性和良心,并应以兄弟关系的精神相对待。"
+  },
+  "jpn": {
+   "name": "Japanese",
+   "heading": "第１条",
+   "text": "すべての人間は、生まれながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。"
+  },
+  "kor": {
+   "name": "Korean",
+   "heading": "제 1 조",
+   "text": "모든 인간은 태어날 때부터 자유로우며 그 존엄과 권리에 있어 동등하다. 인간은 천부적으로 이성과 양심을 부여받았으며 서로 형제애의 정신으로 행동하여야 한다."
+  },
+  "arb": {
+   "name": "Arabic",
+   "heading": "المادة 1",
+   "text": "يولد جميع الناس أحرارًا متساوين في الكرامة والحقوق. وقد وهبوا عقلاً وضميرًا وعليهم أن يعامل بعضهم بعضًا بروح الإخاء."
+  },
+  "hin": {
+   "name": "Hindi",
+   "heading": "अनुच्छेद १.",
+   "text": "सभी मनुष्यों को गौरव और अधिकारों के मामले में जन्मजात स्वतन्त्रता और समानता प्राप्त है । उन्हें बुद्घि और अन्तरात्मा की देन प्राप्त है और परस्पर उन्हें भाईचारे के भाव से बर्ताव करना चाहिए ।"
+  },
+  "ben": {
+   "name": "Bengali",
+   "heading": "ধারা ১",
+   "text": "সমস্ত মানুষ স্বাধীনভাবে সমান মর্যাদা এবং অধিকার নিয়ে জন্মগ্রহণ করে। তাঁদের বিবেক এবং বুদ্ধি আছে ; সুতরাং সকলেরই একে অপরের প্রতি ভ্রাতৃত্বসুলভ মনোভাব নিয়ে আচরণ করা উচিত্‍।"
+  },
+  "tam": {
+   "name": "Tamil",
+   "heading": "உறுப்புரை 1",
+   "text": "மனிதப் பிறிவியினர் சகலரும் சுதந்திரமாகவே பிறக்கின்றனர் ; அவர்கள் மதிப்பிலும், உரிமைகளிலும் சமமானவர்கள், அவர்கள் நியாயத்தையும் மனச்சாட்சியையும் இயற்பண்பாகப் பெற்றவர்கள். அவர்கள் ஒருவருடனொருவர் சகோதர உணர்வுப் பாங்கில் நடந்துகொள்ளல் வேண்டும்."
+  },
+  "guj": {
+   "name": "Gujarati",
+   "heading": "અનુચ્છેદ ૧:",
+   "text": "પ્રતિષ્ઠા અને અધિકારોની દષ્ટિએ સર્વ માનવો જન્મથી સ્વતંત્ર અને સમાન હોય છે. તેમનામાં વિચારશકિત અને અંતઃકરણ હોય છે અને તેમણે પરસ્પર બંધુત્વની ભાવનાથી વર્તવું જોઇએ."
+  },
+  "tha": {
+   "name": "Thai",
+   "heading": "ข้อ 1",
+   "text": "มนุษย์ทั้งหลายเกิดมามีอิสระและเสมอภาคกันในเกียรติศักดิ์และสิทธิ ต่างมีเหตุผลและมโนธรรม และควรปฏิบัติต่อกันด้วยเจตนารมณ์แห่งภราดรภาพ"
+  },
+  "mya": {
+   "name": "Burmese",
+   "heading": "အပိုဒ် ၁",
+   "text": "လူတိုင်းသည် တူညီ လွတ်လပ်သော ဂုဏ်သိက္ခါဖြင့် လည်းကောင်း၊ တူညီလွတ်လပ်သော အခွင့်အရေးများဖြင့် လည်းကောင်း၊ မွေးဖွားလာသူများ ဖြစ်သည်။ ထိုသူတို့၌ ပိုင်းခြား ဝေဖန်တတ်သော ဉာဏ်နှင့် ကျင့်ဝတ် သိတတ်သော စိတ်တို့ရှိကြ၍ ထိုသူတို့သည် အချင်းချင်း မေတ္တာထား၍ ဆက်ဆံကျင့်သုံးသင့်၏။"
+  },
+  "khm": {
+   "name": "Khmer",
+   "heading": "មាត្រា ១",
+   "text": "មនុស្សទាំងអស់ កើតមកមានសេរីភាព និងសមភាព ក្នុងផ្នែកសេចក្ដីថ្លៃថ្នូរនិងសិទ្ធិ។ មនុស្ស មានវិចារណញ្ញាណនិងសតិសម្បជញ្ញៈជាប់ពីកំណើត ហើយគប្បីប្រព្រឹត្ដចំពោះគ្នាទៅវិញទៅមក ក្នុង ស្មារតីភាតរភាពជាបងប្អូន។"
+  },
+  "kat": {
+   "name": "Georgian",
+   "heading": "მუხლი 1.",
+   "text": "ყველა ადამიანი იბადება თავისუფალი და თანასწორი თავისი ღირსებითა და უფლებებით. მათ მინიჭებული აქვთ გონება და სინდისი და ერთმანეთის მიმართ უნდა იქცეოდნენ ძმობის სულისკვეთებით."
+  },
+  "swh": {
+   "name": "Swahili",
+   "heading": "Kifungu cha 1.",
+   "text": "Watu wote wamezaliwa huru, hadhi na haki zao ni sawa. Wote wamejaliwa akili na dhamiri, hivyo yapasa watendeane kindugu."
+  },
+  "zul": {
+   "name": "Zulu",
+   "heading": "Isigaba 1",
+   "text": "Bonke abantu bazalwa bekhululekile belingana ngesithunzi nangamalungelo. Bahlanganiswe wumcabango nangunembeza futhi kufanele baphathane ngomoya wobunye."
+  }
+ }
+}
